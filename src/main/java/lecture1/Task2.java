@@ -1,3 +1,5 @@
+package lecture1;
+
 import java.util.Arrays;
 
 //2. Отсортируйте массив [5,6,3,2,5,1,4,9]
